@@ -1,1 +1,3 @@
 # Responsive-Portfolio
+After completing a Portfolio with media queries and vanilla Javascript to deal with resizing and other problems we were introduced to BootStrap. At the time it was extremely tough to learn but soon became an invaluable tool we could use to create something that would hold up under the heavy traffic we hoped would be flooding our sites. The best part of Bootstrap was its built in functionality and the fact that it would resize automatically without media queries. We still had stringent guidelines to follow, but because of bootstrap we had something we had never had before. A way to easily create a web page with minimal reworking and using tools that were readily available to us.
+Tools used; JavaScript, HTML5, CSS3, BootStrap V4.
